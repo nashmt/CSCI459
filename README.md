@@ -14,4 +14,9 @@ multiple variables including price or size.
 
 Austin Rahman, Jose Chiriboga, Matt Nash, and Rhone Findlay
 
+## Sprint 1
 
+Architectural decision records for the project, as of 2/28/2019, can be found within the directory titled
+'ADRs'. These records explain our selection of web server, database, and development environment. 
+We have also provided a static webpage to show what a user might expect to see when using the
+application. Simply view 'index.html' in your preferred browser.  
