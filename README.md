@@ -1,3 +1,7 @@
+# Team members
+
+Austin Rahman, Jose Chiriboga, Matt Nash, and Rhone Findlay
+
 # Application Use and Function
 
 The point of this is to explain what the application will do. 
