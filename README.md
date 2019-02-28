@@ -1,7 +1,3 @@
-# Team members
-
-Austin Rahman, Jose Chiriboga, Matt Nash, and Rhone Findlay
-
 # Application Use and Function
 
 The point of this is to explain what the application will do. 
@@ -14,6 +10,8 @@ edit houses if there is a price change or other changes. The application will su
 of CRUD operations. You will be able to sort through the different housing options based off of
 multiple variables including price or size. 
 
+## Team members
 
+Austin Rahman, Jose Chiriboga, Matt Nash, and Rhone Findlay
 
 
