@@ -174,7 +174,8 @@ if ($result->num_rows > 0) {
             echo "<td>".$res['sq_ft']."</td>";
             echo "<td>".$res['num_beds']."</td>";
             echo "<td>".$res['num_baths']."</td>";
-            echo "<td><a href=\"edit.php?id=$res[house_ID]\">Edit   </a> | <a href=\"delete.php?id=$res[house_ID]\" onClick=\"return confirm('Are you sure you want to delete?')\">Delete  </a></td>";
+            echo "<td><a href=\"edit.php?house_ID=$res[house_ID]\">Edit   </a> | <a href=\"delete.php?house_ID=$res[house_ID]\" onClick=\"return confirm('Are you sure you want to delete?')\">Delete  </a></td>";
+            // Changed id to house_ID after php?
         }
 
  echo "</table>";
